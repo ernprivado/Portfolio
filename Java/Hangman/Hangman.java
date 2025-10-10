@@ -11,7 +11,7 @@ public class Hangman {
     "python", "rabbit", "ram", "rat", "raven","rhino", "salmon", "seal",
     "shark", "sheep", "skunk", "sloth", "snake", "spider", "stork", "swan",
     "tiger", "toad", "trout", "turkey", "turtle", "weasel", "whale", "wolf",
-    "wombat", "zebra"};
+    "wombat", "zebra", "elephant", "giraffe", "chimpanzee", "orangutan", "gorilla"};
 
     public static String[] gallows = {"+---+\n" +
     "|   |\n" +
